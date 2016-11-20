@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "532971980238",
+    "firebase_url": "https://codelabauth.firebaseio.com",
+    "project_id": "codelabauth",
+    "storage_bucket": "codelabauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532971980238:android:5533eb1065b4bafc",
+        "android_client_info": {
+          "package_name": "thehub.com.androidfirebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532971980238-ms6ni0e9h8n6dada21t4p03peslpqo65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2zOj-QAtsKb6zkxB2Vk1taV_2f7gZNWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
